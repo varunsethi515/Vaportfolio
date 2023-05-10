@@ -1,0 +1,15 @@
+.footer{
+    background-color: var(--body-color);
+    border-top: 2px soild rgba(0,0,0,0.5);
+    color: black;
+    font-weight: 600;
+    width: 100%;
+    position: relative;
+}
+.footer__container{
+    padding: 1rem 0 1rem;
+    text-align: center;
+}
+
+
+
